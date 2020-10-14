@@ -1,2 +1,2 @@
 # python_examples
-* Example 1 [ee](examples_one)
+* [Example 1](examples_one)
