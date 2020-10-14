@@ -1,5 +1,5 @@
 # Q1 hacim hesabı
-enini, boyunu ve yüksekliği verilen bir odanın (dikdortgen prizmanin) hacmini hesaplayan bir program yazınız.
+enini, boyunu ve yüksekliği verilen bir odanın (dikdortgen prizmanin) hacmini hesaplayan bir program yazınız.__
 [Ornek Kodu](quest_one.py)
 
 # Q2 bahşiş hesabı
