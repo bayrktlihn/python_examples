@@ -5,6 +5,7 @@ enini, boyunu ve yüksekliği verilen bir odanın (dikdortgen prizmanin) hacmini
 siparişinizin tutarını (input) alan, %5 ya da %10 ya da %15 bahşiş verildiğinde, bahşiş tutarını + toplam tutarı ayrı ayrı hesaplayan bir program yazınız.
 
 # Q3 ilk n pozitif sayı toplamı
+(n * (n + 1)) / 2
 
 # Q4 Fahrenheit'dan Celsius'a çeviri formulu
 (F - 32) × 5/9 = C
