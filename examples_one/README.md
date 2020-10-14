@@ -1,20 +1,20 @@
 # Q1 hacim hesabı
-enini, boyunu ve yüksekliği verilen dikdörtgen prizmanın hacmini bulan program yazın.
+enini, boyunu ve yüksekliği verilen bir odanın (dikdortgen prizmanin) hacmini hesaplayan bir program yazınız.
 
 # Q2 bahşiş hesabı
-Konsoldan siparis tutarı bilgisi alınacak. Daha sonra (%5, %10, %15) bahşiş verilmek şartıyla bahşiş tutarını ve toplam ödemeyi hesaplayıp değerleri ekrana yazdıran program yazınız.
+siparişinizin tutarını (input) alan, %5 ya da %10 ya da %15 bahşiş verildiğinde, bahşiş tutarını + toplam tutarı ayrı ayrı hesaplayan bir program yazınız.
 
 # Q3 ilk n pozitif sayı toplamı
-İster for döngüsü yapın veya başka bir yöntemle ilk n pozitif sayıların toplamını bulan program yazınız.(ipucu: n*(n+1)/2)
 
 # Q4 Fahrenheit'dan Celsius'a çeviri formulu
-Fahrenheit değeri bilinen bir değeri celsiusa çeviren program yazınız. (Förmül: (F - 32) × 5/9 = C)
+(F - 32) × 5/9 = C
 
 # Q5 Çift/Tek Sayılar
-Bir listede sayılarımız olsun. Bu liste içerisinde kaç tane çift kaç tane tek tam sayı olduğunu bulan program yazınız.
+Tam sayılar içeren bir listede, kaç elemanın çift, kaç elemanın tek olduğunu hesaplayan bir program yazınız.
 
 # Q6 Kaç sesli/sessiz harf var?
-Bir string değeri içinde kaç tane sesli harf, kaç tane sessiz harf olduğunu bulan program yazınız. Çok zorlar ise ingiliz alfabeyi kullabilirsiniz.
+Verilen bir string icinde, kac tane sesli harf, kaç tane sessiz harf var?
+Kolaylık olması için, ingilizce alfabeyi kullanabilirsiniz.
 
 # Q7 Köpek Yılı
 Bir yaklaşıma göre, bir insan yılının, 7 köpek yılına eşit olduğu söylenir.
