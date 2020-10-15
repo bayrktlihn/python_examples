@@ -6,7 +6,7 @@ def isNumeric(val):
 
     tmp = val + ""
     if tmp[0] == "-":
-        tmp = tmp[1]
+        tmp = tmp[1:]
 
     if tmp.replace(".","", 1).isdigit():
         return True
