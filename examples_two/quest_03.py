@@ -2,8 +2,8 @@ def isIntAndPositive(val):
     if val.isdigit():
         return True
 
-number = input("Please a give number: ")
 
+number = input("Please a give number: ")
 
 if isIntAndPositive(number):
     number = int(number)
