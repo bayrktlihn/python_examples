@@ -16,6 +16,7 @@ def isNumeric(val):
 
 total = 0
 for number in numbers:
+    number = number.strip()
     if isNumeric(number):
         number = float(number)
         total += number
@@ -26,5 +27,3 @@ for number in numbers:
 
 if total:
     print(total)
-
-
