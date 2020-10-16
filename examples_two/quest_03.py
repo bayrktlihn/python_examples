@@ -1,31 +1,19 @@
-def isNumeric(val):
+def isIntAndPositive(val):
     if val.isdigit():
         return True
-    elif val[0] == "-" and val[1:].isdigit():
-        return True
-
-    tmp = val + ""
-    if tmp[0] == "-":
-        tmp = tmp[1:]
-
-    if tmp.replace(".","", 1).isdigit():
-        return True
-    return False
 
 number = input("Please a give number: ")
 
-if isNumeric(number):
-    number = float(number)
 
+if isIntAndPositive(number):
+    number = int(number)
+
+    x = "1"
     total = 0
     for i in range(0, 3):
-        total += number ** (i + 1)
+        total += number * int(x)
+        x = str(x) + "1"
     print(total)
 
 else:
     print("Invalid value")
-
-
-
-
-
