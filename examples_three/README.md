@@ -88,17 +88,12 @@ def zaman_hesapla(ortalama_hiz, mesafe):
 [Örnek Kodu](quest_07.py)
 
 # Q8 shout()
-shout isimli bir fonksiyon yazınız.
-
-Bu fonksiyon:
-
-string tipinden bir parametre almalıdır.
-
-her karakteri büyük harfe çevirmelıdır.
-
-her karakterin arasina bir boşluk koymalıdır.
-
-sonuna da ünlem eklemelidir.
+* shout isimli bir fonksiyon yazınız.
+* Bu fonksiyon:
+** string tipinden bir parametre almalıdır.
+** her karakteri büyük harfe çevirmelıdır.
+** her karakterin arasina bir boşluk koymalıdır.
+** sonuna da ünlem eklemelidir.
 
 Uygulama: shout()
 ```python
