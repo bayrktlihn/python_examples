@@ -99,7 +99,7 @@ her karakterin arasina bir boşluk koymalıdır.
 sonuna da ünlem eklemelidir.
 
 Uygulama: shout()
-
+```python
 def shout(needle):
     """
     strip()
@@ -112,6 +112,7 @@ def shout(needle):
     :param needle:
     :return:
     """
+```
     
 
 [Örnek Kodu](quest_08.py)
