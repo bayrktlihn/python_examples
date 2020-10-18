@@ -66,9 +66,10 @@ verilen bir sayidan büyük bir sonraki asal sayiyi bulan uygulama.
 [Örnek Kodu](quest_06.py)
 
 # Q7 zaman hesaplama
-t = x/v formülünü kullanalım.
-iki parametre döndürsün: saat ve dakika
+* t = x/v formülünü kullanalım.
+* iki parametre döndürsün: saat ve dakika
 
+```python
 def zaman_hesapla(ortalama_hiz, mesafe):
     """
     Ortalama hiz ve mesafe kullanarak sureyi hesaplar.
@@ -81,6 +82,7 @@ def zaman_hesapla(ortalama_hiz, mesafe):
     :return:
     """
     pass
+```
 
 
 [Örnek Kodu](quest_07.py)
