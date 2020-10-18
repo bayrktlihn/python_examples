@@ -5,15 +5,19 @@ Bu işlem sonrasında, parametrenin solundaki ve sağındaki boşluklar kalıyor
 "   aa b c   "
 "   aabc   "
 
+```python
 def middlestrip(string1):
     pass
+```
 
 
 [Örnek Kodu](quest_01.py)
 
 # Q2 stars
+```python
 def print_stars(num):
     pass
+```
 
 1 için:
 *
@@ -31,9 +35,11 @@ def print_stars(num):
 [Örnek Kodu](quest_02.py)
 
 # Q3
+```python
 def alti_cizili_yaz(baslik, karakter):
     print(baslik)
     print(len(baslik) * karakter)
+```
 
 
 ahmet
@@ -44,9 +50,10 @@ _____
 
 # Q4
 Bir sayıya kadar olan sayıların toplamını döndüren bir fonksiyon yazınız.
-
+```python
 def sum_up_to(number):
     pass
+```
 
 sum = n(n+1)/2
 
@@ -54,8 +61,9 @@ sum = n(n+1)/2
 [Örnek Kodu](quest_04.py)
 
 # Q5
-verilen bir sayıya kadar olan asal sayıları bulan uygulama
-.yukarıdaki is_prime() fonksiyonunu tekrar kullanabilirsiniz.
+verilen bir sayıya kadar olan asal sayıları bulan uygulama. 
+
+yukarıdaki is_prime() fonksiyonu kullanabilirsiniz.
 
 
 [Örnek Kodu](quest_05.py)
@@ -116,7 +124,9 @@ def shout(needle):
     
 # Q9
 whisper()
+
 shout() fonksiyonunun tersi.
+
 hepsini küçük harfe cevirecek, aradaki fazla bosluklari atacak, sonda unlem varsa kaldiracak.
 
 
