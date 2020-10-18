@@ -1,5 +1,6 @@
 # Q1 middlestrip()
 Bir string alıp, içindeki boşlukları silen bir fonksiyon yazınız.
+
 Bu işlem sonrasında, parametrenin solundaki ve sağındaki boşluklar kalıyor olmalıdır.
 
 "   aa b c   "
