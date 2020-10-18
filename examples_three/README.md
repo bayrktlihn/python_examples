@@ -22,7 +22,7 @@ def print_stars(num):
 
 1 için:
 
-'*'
+\*
 
 2 için:
 
