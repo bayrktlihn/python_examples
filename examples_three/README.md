@@ -24,11 +24,14 @@ def print_stars(num):
 
 2 için:
 *
+
 **
 
 3 için:
 *
+
 **
+
 ***
 
 
