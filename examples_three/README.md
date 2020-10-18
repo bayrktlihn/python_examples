@@ -36,7 +36,7 @@ def print_stars(num):
 
 **
 
-***
+\*\*\*
 
 
 [Örnek Kodu](quest_02.py)
