@@ -22,17 +22,17 @@ def print_stars(num):
 
 1 için:
 
-*
+'*'
 
 2 için:
 
-*
+'*'
 
 **
 
 3 için:
 
-*
+'*'
 
 **
 
@@ -49,8 +49,8 @@ def alti_cizili_yaz(baslik, karakter):
 ```
 
 
-ahmet
-_____
+<ins>ahmet</ins>
+
 
 
 [Örnek Kodu](quest_03.py)
