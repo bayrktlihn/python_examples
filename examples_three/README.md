@@ -3,6 +3,7 @@ Bir string alıp, içindeki boşlukları silen bir fonksiyon yazınız.
 Bu işlem sonrasında, parametrenin solundaki ve sağındaki boşluklar kalıyor olmalıdır.
 
 "   aa b c   "
+
 "   aabc   "
 
 ```python
@@ -20,14 +21,17 @@ def print_stars(num):
 ```
 
 1 için:
+
 *
 
 2 için:
+
 *
 
 **
 
 3 için:
+
 *
 
 **
