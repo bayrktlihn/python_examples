@@ -1,8 +1,7 @@
 def fix_text(text):
-    d = text.split(" ")
-    y = [word for word in d if word != ""]
+    d = text.split()  # split'e dikkat tüm bosluk karakterine göre bölüyor
 
-    return " ".join(y)
+    return " ".join(d)
 
 
 def find_index_begin_space(text: str):
@@ -34,4 +33,6 @@ def middlestrip(text: str):
     return text[0: begin_index] + real_text + text[end_index + 1:]
 
 
-x = middlestrip("           alihan           batraktar          alid      ")
+x = middlestrip("\talihan\t\n           batraktar          alid\t")
+
+print(x)
