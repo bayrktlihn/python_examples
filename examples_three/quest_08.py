@@ -1,9 +1,6 @@
 def fix_text(text):
-    text = text.split(" ")
-    text = [word for word in text if word != ""]
+    text = text.split()
     return " ".join(text)
-
-
 
 
 def shout(text):
@@ -19,4 +16,4 @@ def shout(text):
     return result
 
 
-print(shout("alihan                                    bayraktar"))
+print(shout(" \n\n\nalihan                                    bayraktar        "))
