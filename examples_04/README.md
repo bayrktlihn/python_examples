@@ -16,4 +16,17 @@ data_as_str = """
 """.strip()
 ```
 
-Şeklindeki veriyi satırlara bölelim
+Şeklindeki veriyi satırlara bölelim.
+
+[Örnek Kodu](quest_01.py)
+
+# Q2
+Q1'deki verileri kullanarak, içinde shark geçen filmleri getirsin.
+
+[Örnek Kodu](quest_02.py)
+
+# Q3
+Q1'deki verileri kullanarak, en eski film(ler)i getirsin
+
+# Q4
+Q1'deki verileri kullanarak, en yeni film(ler)i getirsin.
