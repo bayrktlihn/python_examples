@@ -28,5 +28,9 @@ Q1'deki verileri kullanarak, içinde shark geçen filmleri getirsin.
 # Q3
 Q1'deki verileri kullanarak, en eski film(ler)i getirsin
 
+[Örnek Kodu](quest_03.py)
+
 # Q4
 Q1'deki verileri kullanarak, en yeni film(ler)i getirsin.
+
+[Örnek Kodu](quest_04.py)
