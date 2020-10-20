@@ -19,4 +19,6 @@ bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
 ![Alt text](../img/multiplication_table.jpg?raw=true "Title")
 
+# Q3 Kökü bulan program yazınız
+
 
