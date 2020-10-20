@@ -40,6 +40,7 @@ Verilen 2 sayının obebini bulan program yazınız.
 # Q5 Kesir Sadeleştirme
 
 4/10 -> 2/5
+
 OBEB dusunulebilir. (şart değil)
 
 [Örnek Kodu](quest_05.py)
