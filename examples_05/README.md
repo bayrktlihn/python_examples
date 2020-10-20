@@ -21,4 +21,7 @@ bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
 # Q3 Kökü bulan program yazınız
 
+![Alt text](../img/find_root.png?raw=true "Title")
+
+Resimdeki formüle göre kökü bulan programı yazınız. Input olarak a^2x +bx + c denkleminin a, b, c verebilirsiniz
 
