@@ -15,7 +15,7 @@ hesaplarin başlangıç degerlerini sıfır olarak düşünelim.
 
 bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
-# Q2 Aşağıdaki gibi, carpim tablosunu ekrana yazan bir program yazınız:
+# Q2 Aşağıdaki gibi, carpim tablosunu ekrana yazan bir program yazınız
 
 ![Alt text](../img/multiplication_table.jpg?raw=true "Title")
 
