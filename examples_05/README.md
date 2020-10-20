@@ -25,3 +25,6 @@ bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
 Resimdeki formüle göre kökü bulan programı yazınız. Input olarak a^2x +bx + c denkleminin a, b, c verebilirsiniz
 
+# Q4 OBEB
+Verilen 2 sayının obebini bulan program yazınız.
+
