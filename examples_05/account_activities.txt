@@ -1,0 +1,7 @@
+hesapno,islem,firma,notlar
+tr100,-100,kardesler ticaret,4
+tr120,-14.24,starbucks,2
+tr100  ,-14.24,starbucks,5
+  tr100,500   ,burs,6
+tr120,2500,maas,8
+190,40000  ,prim,2
