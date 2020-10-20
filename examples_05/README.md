@@ -15,9 +15,14 @@ hesaplarin başlangıç degerlerini sıfır olarak düşünelim.
 
 bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
+
+[Örnek Kodu](quest_01.py)
+
 # Q2 Aşağıdaki gibi, carpim tablosunu ekrana yazan bir program yazınız
 
 ![Alt text](../img/multiplication_table.jpg?raw=true "Title")
+
+[Örnek Kodu](quest_02.py)
 
 # Q3 Kökü bulan program yazınız
 
@@ -25,10 +30,16 @@ bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
 Resimdeki formüle göre kökü bulan programı yazınız. Input olarak a^2x +bx + c denkleminin a, b, c verebilirsiniz
 
+[Örnek Kodu](quest_03.py)
+
 # Q4 OBEB
 Verilen 2 sayının obebini bulan program yazınız.
+
+[Örnek Kodu](quest_04.py)
 
 # Q5 Kesir Sadeleştirme
 
 4/10 -> 2/5
 OBEB dusunulebilir. (şart değil)
+
+[Örnek Kodu](quest_05.py)
