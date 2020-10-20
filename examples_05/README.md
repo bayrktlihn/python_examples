@@ -15,4 +15,8 @@ hesaplarin başlangıç degerlerini sıfır olarak düşünelim.
 
 bu dosyayı okuyarak, her hesap numarasinda kaç TL olduğunu hesaplayiniz.
 
+# Q2
+
+![Alt text](../img/multiplication_table.jpg?raw=true "Title")
+
 
