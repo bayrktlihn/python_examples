@@ -4,10 +4,6 @@ def x1_x2(a, b, c):
     if delta < 0:
         return (None, None)
 
-    if delta == 0:
-        result = (-b - delta ** 0.5)
-        return (result, result)
-
     x1 = -b - delta ** 0.5
     x2 = -b + delta ** 0.5
 
