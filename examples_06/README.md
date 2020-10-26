@@ -53,4 +53,8 @@ random modulunden faydalanabilirsiniz.
 
 Satranç tahtası yerleşimi aşağıdaki gibidir. Bunu referans alarak, kullanıcıdan bir koordinat alarak (örneğin d4), bunun siyah mı yoksa beyaz mı olduğunu döndüren bir fonksiyon yazınız.
 
+![Alt text](../img/chessboard.png?raw=true "Title")
+
+[Örnek Kodu](q6.py)
+
 
