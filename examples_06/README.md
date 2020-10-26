@@ -21,7 +21,7 @@ BankAccount
 # Q2
 Obeb fonksiyonunu gerçekleştiriniz
 
-[Örnek Kodu](q3.py)
+[Örnek Kodu](q2.py)
 
 # Q3 kesir sadelestirme (tam sayı olarak)
 4/10 -> 2/5
