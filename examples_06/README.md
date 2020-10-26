@@ -57,4 +57,37 @@ Satranç tahtası yerleşimi aşağıdaki gibidir. Bunu referans alarak, kullan�
 
 [Örnek Kodu](q6.py)
 
+# Q7 T.C. Kimlik Numarası Geçerli mi?
+
+Verilen bir kimlik numarasının geçerli olup olmadığını True/False şeklinde döndüren bir fonksiyon yazınız.
+
+[Örnek Kodu](q7.py)
+
+# Q8 Bir liste sıralı mı?
+
+Bir listeyi parametre olarak alan, liste zaten sıralı ise True, değilse False donduren bir fonksiyon yazınız.
+
+[Örnek Kodu](q8.py)
+
+# Q9 Sorted Insert
+
+Sıralı olduğu kabul edilen bir listeye, bir elemanı doğru yere insert eden bir fonksiyon yazınız.
+
+Amaç, elemani son ekleyip listeyi sort etmek değildir, çünkü bu yavaş çalışır.
+
+Listenin zaten sıralı olduğunu kabul edip, uygun yere insert ediniz.
+
+[Örnek Kodu](q9.py)
+
+# Q10 perfect numbers
+
+Bir sayının perfect olabilmesi için pozitif olmalı ve aynı zamanda kendisi hariç pozitif bölenleri toplamı kendisini vermelidir.
+
+Örneğin 28 sayısı = 1 + 2 + 4 + 7 + 14 pozitif bölenlerin toplamına eşittir.
+
+Buna göre bir sayı perfect sayı olup olmadığını döndüren bir fonksiyon yazınız.
+
+[Örnek Kodu](q10.py)
+
+
 
