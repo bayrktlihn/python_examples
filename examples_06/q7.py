@@ -69,6 +69,6 @@ def sum_digits_without_last_digit(val):
 
 
 if __name__ == "__main__":
-    result = is_valid_identification_number("50203722674")
+    result = is_valid_identification_number("50004577612")
 
     print(result)
