@@ -59,6 +59,8 @@ Satranç tahtası yerleşimi aşağıdaki gibidir. Bunu referans alarak, kullan�
 
 # Q7 T.C. Kimlik Numarası Geçerli mi?
 
+https://seyler.eksisozluk.com/tc-kimlik-numaralarindaki-inanilmaz-algoritma
+
 Verilen bir kimlik numarasının geçerli olup olmadığını True/False şeklinde döndüren bir fonksiyon yazınız.
 
 [Örnek Kodu](q7.py)
