@@ -3,6 +3,7 @@
 def sezar_sifrele(kaydirilacak_harf_sayisi, acik_metin):
     pass
 ```
+[Örnek Kodu](q1.py)
 
 https://tr.wikipedia.org/wiki/Sezar_%C5%9Fifrelemesi
 
@@ -56,6 +57,8 @@ if __name__ == "__main__":
 
 ```
 
+[Örnek Kodu](q2.py)
+
 # Q3 tokenize()
 bir string'i kelimelere ayiran, aşağıdaki fonksiyonu yazınız
 
@@ -77,6 +80,8 @@ def tokenize(haystack: str, min_allowed_length=3):
 
 ```
 
+[Örnek Kodu](q3.py)
+
 # Q4 uniques_only()
 ```python
 def uniques_only(iterable1):
@@ -89,6 +94,8 @@ def uniques_only(iterable1):
     # TODO: implement uniques_only(iterable1)
 ```
 
+[Örnek Kodu](q4.py)
+
 # Q5 q5 reverse_lookup()
 
 ```python
@@ -98,3 +105,5 @@ Write a function named reverse_lookup that finds all of the keys in a dictionary
 Include a main program that demonstrates the reverseLookup function as part of your solution to this exercise. Your program should create a dictionary and then show that the reverseLookup function works correctly when it returns multiple keys, a single key, and no keys. Ensure that your main program only runs when the file containing your solution to this exercise has not been imported into another program.
 """
 ```
+
+[Örnek Kodu](q5.py)
