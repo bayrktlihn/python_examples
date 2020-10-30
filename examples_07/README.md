@@ -3,9 +3,9 @@
 def sezar_sifrele(kaydirilacak_harf_sayisi, acik_metin):
     pass
 ```
-[Örnek Kodu](q1.py)
-
 https://tr.wikipedia.org/wiki/Sezar_%C5%9Fifrelemesi
+
+[Örnek Kodu](q1.py)
 
 # Q2 ShoppingCalculator sınıfını yazınız.
 sınıfıniz, main() içinde yazılı olan kod ile uyumlu calismalidir.
