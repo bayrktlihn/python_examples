@@ -63,6 +63,7 @@ mfn jnem za mfn pjoryn sjksgnr kqr anww. uomf k sjt kjkyzjq jzienr mfnl.
 ```
 
 [Örnek Kodu](q1.py)
+
 [Sifresi Çözülmüş Metin Dosyası](acik_metin.txt)
 
 # Q2
