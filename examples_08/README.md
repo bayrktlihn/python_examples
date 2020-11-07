@@ -4,11 +4,14 @@ Daha sonra bunu sifreleyecek bir program yazdım.
 Bu sifreyi kirmayi deneyebilirsiniz.
 
 ipucu1: metin ingilizce
+
 ipucu2: şifreli metin, orjinal metin ile aynı uzunlukta. Yani her harf, başka bir harfe map'lenmis durumda.
+
 ipucu3: https://en.wikipedia.org/wiki/Letter_frequency
+
 ipucu4: https://en.wikipedia.org/wiki/Most_common_words_in_English
-ipucu5: 
-İpucu6: bunu kirmak için yazacağınız programı, musvedde olarak düşünün. Genel bir metin veriyoruz ve programimiz onun sifresini kiracak diye değil de, özellikle bu metini ve bu sifreyi kiracak şekilde düşünelim. İpucu3 ve 4'deki noktalari yakalamaya çalışın. En yüksek frekansli harf, en çok geçen 2 harfli, 3 harfli kelimeler vs.
+
+İpucu5: bunu kirmak için yazacağınız programı, musvedde olarak düşünün. Genel bir metin veriyoruz ve programimiz onun sifresini kiracak diye değil de, özellikle bu metini ve bu sifreyi kiracak şekilde düşünelim. İpucu3 ve 4'deki noktalari yakalamaya çalışın. En yüksek frekansli harf, en çok geçen 2 harfli, 3 harfli kelimeler vs.
 
 Buna göre altaki şifrelenmiş metni kırmaya çalışınız.
 
