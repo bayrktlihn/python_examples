@@ -62,7 +62,16 @@ mfn jnem za mfn pjoryn sjksgnr kqr anww. uomf k sjt kjkyzjq jzienr mfnl.
 
 ```
 
+[Örnek Kodu](q1.py)
+[Sifresi Çözülmüş Metin Dosyası](acik_metin.txt)
+
 # Q2
 Herhangi bir metini, bu şekilde sifreleyen bir program yazınız.
 
 Yani her harfi bir harfe map'lesin (random olabilir) ve bir metini buna göre sifrelesin.
+
+[Örnek Kodu](q2.py)
+
+[Orjinal Metin](alihan_bayraktar_sifre_kirici.txt)
+
+[Sifrelenmis Metin](alihan_bayraktar_sifreleyici.txt)
